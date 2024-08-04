@@ -1,0 +1,1 @@
+a simple downloader with the tags you want and those you don't want, the program then downloads all within the limit of your choice and everything is stored in a folder specially created for the occasion
