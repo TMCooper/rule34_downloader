@@ -88,8 +88,8 @@ def save_file(file_content, url):
         return f"Erreur lors de la sauvegarde du fichier {filename}: {e}"
 
 def process_files(posts):
-    if not os.path.exists('homework'):
-        os.makedirs('homework')
+    if not os.path.exists('homeworks'):
+        os.makedirs('homeworks')
 
     total_files = len(posts)
     
